@@ -1,14 +1,12 @@
-'use strict';
+"use strict";
 alert("Задание 1");
-let Tc = null;
-Tc = +prompt("Ведите значение температуры в градусах Цельсия")
+let Tc = +prompt("Ведите значение температуры в градусах Цельсия")
 let Tf = (9 / 5) * Tc + 32;
 alert("Температура в Ференгейтах: " + Tf);
 alert("Задание 2 - результат выводится в консоль");
-let admin = null;
-let name = null;
-name = "Василий";
-admin = name;
+
+let name = "Василий";
+let admin = name;
 console.log(admin);
 alert("Задание 3 - результаты выводятся в консоль");
 
