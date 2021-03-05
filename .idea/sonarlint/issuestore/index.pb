@@ -78,3 +78,33 @@ yleson_5/level_2/2 обработка события/3-получение_про
 Zleson_5/level_2/2 обработка события/5-всплытие_события.html,9\5\953cd23c9e2c69fa76eef411827b3dfb1639426a
 e
 5leson_5/level_2/3 стили/1-inline_стили.html,3\7\37f60037de4f257140b453342b6877547484c217
+k
+;leson_6/level_1/1-замена_картинок/images.html,6\a\6ac300b8809232ddbd6c72580584f3e0b827e717
+f
+6leson_6/level_1/4-отложенный_вызов.html,0\1\01750c9675d5763303c01f1bd496dcbe5624d777
+Q
+!leson_6/level_1/2-стили.html,d\1\d19c16b7d32df06b6b73a3e71bbf57a6eafaf7e5
+l
+<leson_6/level_1/3-карточки_товаров/cards.html,9\a\9ad7c78ba2c6a0160fd3f3655aec54e7be35b28f
+f
+6leson_6/level_1/5-добавить_отступы.html,5\7\57cd4c85e2fba4d4540110efb71f6d0c55b23398
+h
+8leson_6/level_1/6-добавить_переносы.html,6\1\6158cda6c477ddfb39e8a543e8d2f69db9b43ede
+|
+Lleson_6/level_2/1-получение_значений_из_input/inputs.html,7\0\7055987764ab8889b4f90231ea41112b4ae3f123
+]
+-leson_6/level_2/2-анимация/index.html,9\5\955ae002dfacae3d34dbf1bb4e4f344806a86e97
+{
+Kleson_6/level_3/1-удаление_блока_по_клику/messages.html,7\0\70fca7b96173af5213765891c676202de3f7e3f9
+\
+,leson_6/level_2/3-рейтинг/rating.html,b\8\b8b4466ce7f655c6d918dad5a86bbdaac56d25f6
+t
+Dleson_6/level_3/2-добавление_в_корзину/toCart.html,1\8\1883a1d8dd98d284265921b95e03129ba04ec510
+o
+?leson_6/level_3/3-валидация_формы/validation.html,1\4\142ccd328da825743572a7579a99ed6d3c59f063
+e
+5leson_6/level_3/4-кнопка_наверх/style.css,d\f\df081e57aa8a83ece730de3bf1261ccb2fcc2f3c
+h
+8leson_6/level_3/4-кнопка_наверх/goToTop.html,a\3\a32b02f82c6dcbb3d3d0e4458db9eb20d01c7411
+~
+Nleson_6/level_3/5-имитация_загрузки_картинок/load.html,8\6\8648d88031d3e68d5e852dff8f0e893536ca5ece
