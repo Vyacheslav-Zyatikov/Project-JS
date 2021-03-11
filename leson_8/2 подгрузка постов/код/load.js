@@ -31,7 +31,7 @@ function insertPosts() {
     // 3. в postsMarkup вам надо будет в цикле дописывать с помощью конкатенации
     // разметку, возвращаемую getPostMarkup.
     // 3.1 в getPostMarkup в качестве аргумента передавайте счетчик цикла
-    let postsMarkup = ``;
+    let postsMarkup = '';
     for (let counter = 0;counter < 2;counter++) {
         postsMarkup += getPostMarkup(counter);
     }
