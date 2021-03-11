@@ -102,9 +102,9 @@ function clickHandler(event) {
  */
 function showCategory(category) {
     const productsCategory = products[category];
-    let ProductsDiv = "";
+    let productsDiv = "";
     productsCategory.forEach(function (product) {
-        ProductsDiv += getProductMarkup(product);
+        productsDiv += getProductMarkup(product);
     });
     productsObject.insertAdjacentHTML("afterbegin", ProductsDiv);
 }

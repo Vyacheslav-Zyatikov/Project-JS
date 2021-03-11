@@ -32,25 +32,25 @@ function clickHandler(event) {
 /**
  * Эта функция должна убирать .active у предыдущего .nav-link и ставить его
  * на тот, по которому кликнули.
- * @param {MouseEvent} event 
+ * @param {MouseEvent} target
  */
-function changeActiveClass(event) {
+function changeActiveClass(target) {
     navs.forEach(function(nav){
         if (nav.classList.contains('active')){
             nav.classList.remove('active');
         }
     })
-    event.classList.add('active');
+    target.classList.add('active');
 }
 
 /**
  * Эта фукнция должна читать текст (например через textContent) из 
  * .nav-link по которому кликнули и в зависимости от этого в .text
  * ставить соответствующий текст из texts.
- * @param {MouseEvent} event 
+ * @param {MouseEvent} target
  */
-function changeText(event) {
-    switch (event.textContent) {
+function changeText(target) {
+    switch (target.textContent) {
         case 'Link 1':
             paragraph.innerHTML = texts.text1;
             break;
